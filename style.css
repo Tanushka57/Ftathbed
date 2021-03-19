@@ -1,0 +1,18 @@
+.name_of_objects{
+    color: black;
+    font-size: 30px;
+}
+#hh{
+    color: white;
+    font-size: 40px;
+}
+p{
+    color: white;
+    font-size: 30px;
+
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
